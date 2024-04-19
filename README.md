@@ -1,1 +1,1 @@
-#Sisitema de control de nominas y asistencias
+# Sisitema de control de nominas y asistencias
